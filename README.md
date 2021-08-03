@@ -1,5 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+Hey there! I'm Edison, a non-binary furry from the UK.
 
+## 🛠 My Tech Stack
+### 🧑‍💻 Programming Languages  
+![C#](https://img.shields.io/badge/-C%23-555555?style=for-the-badge&logo=csharp)&nbsp;
+![Python](https://img.shields.io/badge/-Python-555555?style=for-the-badge&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-555555?style=for-the-badge&logo=JavaScript)
+### ☁️ Cloud
+### 💾 Software
 <!--
 **EdisonTheFox/EdisonTheFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
