@@ -8,7 +8,6 @@ Hey there! I'm Edison, a non-binary furry from the UK who works in Cyber Securit
 Website coming soon!
 
 ## 🛠 My Tech Stack
----
 ### 🧑‍💻 Programming Languages  
 ![C#](https://img.shields.io/badge/-C%23-555555?style=for-the-badge&logo=csharp)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-555555?style=for-the-badge&logo=python)&nbsp;
