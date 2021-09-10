@@ -26,6 +26,7 @@ Website coming soon!
 ## Currently Learning
 - PowerShell
 - MongoDB
+- Kotlin
 - Microsoft 365 Security
 - Cloud Security
 - Android App Development
