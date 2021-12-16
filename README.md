@@ -30,6 +30,9 @@ Website coming soon!
 - Microsoft 365 Security
 - Cloud Security
 - Android App Development
+- React.JS
+- PHP
+- Docker
 <!--
 **EdisonTheFox/EdisonTheFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
