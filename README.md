@@ -4,7 +4,8 @@ Hey there! I'm Edison, a non-binary furry from the UK who works in Cyber Securit
 </br>
 
 ## Where to find me
-[![Twitter](https://img.shields.io/badge/-twitter-555555?style=for-the-badge&logo=twitter)](https://twitter.com/edisonthefox)&nbsp;  
+[![Twitter](https://img.shields.io/badge/-twitter-555555?style=for-the-badge&logo=twitter)](https://twitter.com/edisonthefox)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-555555?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/stanley-s-york/)&nbsp;
 Website coming soon!
 
 ## 🛠 My Tech Stack
