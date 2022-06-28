@@ -1,5 +1,6 @@
 # Hi there 👋
 ![Pronouns](https://img.shields.io/badge/%F0%9F%98%8APronouns-They%2FThem-informational?style=for-the-badge)&nbsp;
+</br>
 Hey there! I'm Edison, a non-binary, furry, software developer from the UK. I code for fun and in my spare time
 </br>
 </br>
@@ -7,6 +8,7 @@ Hey there! I'm Edison, a non-binary, furry, software developer from the UK. I co
 ## Where to find me
 [![Twitter](https://img.shields.io/badge/-twitter-555555?style=for-the-badge&logo=twitter)](https://twitter.com/edisonthefox)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-555555?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/stanley-s-york/)&nbsp;
+</br>
 Website coming soon!
 
 ## 🛠 My Tech Stack
