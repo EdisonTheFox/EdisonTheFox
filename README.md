@@ -1,5 +1,6 @@
 # Hi there 👋
-Hey there! I'm Edison, a non-binary furry from the UK who works in Cyber Security. I code for fun and in my spare time
+![Pronouns](https://img.shields.io/badge/%F0%9F%98%8APronouns-They%2FThem-informational?style=for-the-badge)&nbsp;
+Hey there! I'm Edison, a non-binary, furry, software developer from the UK. I code for fun and in my spare time
 </br>
 </br>
 
