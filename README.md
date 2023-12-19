@@ -8,7 +8,7 @@ Hey there! I'm Edison, a non-binary, furry, software developer from the UK. I co
 
 ## Where to find me
 [![Twitter](https://img.shields.io/badge/Twitter-F6F8FA?style=for-the-badge&logo=X&logoColor=000000)](https://twitter.com/edisonthefox)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-F6F8FA?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/stanley-s-york/)&nbsp;
+[![Threads](https://img.shields.io/badge/Threads-F6F8FA?style=for-the-badge&logo=threads&logoColor=000000)](https://threads.net/edisonthefox)&nbsp;
 </br>
 Website coming soon!
 
