@@ -12,7 +12,7 @@ Hey there! I'm Edison, a non-binary, furry, software developer from the UK. I co
 </br>
 Website coming soon!
 
-## 🛠 My Tech Stack
+## My Tech Stack
 ### 💻 Programming Languages  
 ![C#](https://img.shields.io/badge/-C%23-F6F8FA?style=for-the-badge&logo=csharp&logoColor=512BD4)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-F6F8FA?style=for-the-badge&logo=python&logoColor=3776AB)&nbsp;
@@ -20,7 +20,10 @@ Website coming soon!
 ![TypeScript](https://img.shields.io/badge/-TypeScript-F6F8FA?style=for-the-badge&logo=TypeScript&logoColor=3178C6)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-F6F8FA?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-F6F8FA?style=for-the-badge&logo=css3&logoColor=1572B6)&nbsp;
+### 🛠 Frameworks
 ![React](https://img.shields.io/badge/-React-F6F8FA?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Node](https://img.shields.io/badge/-NodeJS-F6F8FA?style=for-the-badge&logo=node.js&logoColor=339933)&nbsp;
+![MUI](https://img.shields.io/badge/-MUI-F6F8FA?style=for-the-badge&logo=mui&logoColor=007FFF)&nbsp;
 
 ### ☁️ Cloud
 ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-F6F8FA?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)&nbsp;
