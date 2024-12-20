@@ -9,7 +9,7 @@ Hey there! I'm Edison, a non-binary, furry, software developer from the UK. I co
 ## Where to find me
 [![BlueSky](https://img.shields.io/badge/BlueSky-F6F8FA?style=for-the-badge&logo=bluesky&logoColor=0285FF)](https://bsky.app/profile/edisonthefox.dev)&nbsp;
 </br>
-Website coming soon!
+Website coming eventually...
 
 ## My Tech Stack
 ### 💻 Programming Languages  
